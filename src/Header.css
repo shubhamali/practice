@@ -1,0 +1,17 @@
+.header-nav{
+    background-color:rgb(109, 70, 145);
+}
+.header-ul{
+  display: flex;
+  justify-content: flex-start;
+}
+.header-ul li{
+    cursor: pointer;
+    padding: 10px;
+    color:white;
+    list-style-type:none;
+}
+.header-ul li:hover{
+    background-color: rgb(80, 80, 122);
+    color:white;
+}

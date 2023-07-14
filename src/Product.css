@@ -1,0 +1,30 @@
+.product-main{
+    padding: 10px;
+    margin: 10px;
+}
+.card{
+    margin:5px;
+    padding: 5px;
+    width:250px;
+    height: 250px;
+    box-shadow:5px 5px 10px #cccc;
+}
+.card img{
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    width:80%;
+    height: 50%;
+}
+.card h4{
+    margin:10px;
+    /* padding: 2px; */
+}
+.card p{
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card:hover{
+    box-shadow:10px 10px 20px #cccc;
+    cursor: pointer;
+}
